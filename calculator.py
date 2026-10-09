@@ -16,3 +16,7 @@ elif opreations == '*':
     print(num3)
 else:
     print("opreation not found")
+again = input("do you want to continue?(yes/no):")
+if again.lower() != "yes":
+    print("thankyou for using my calculator!")
+    break
