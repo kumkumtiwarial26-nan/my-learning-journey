@@ -1,5 +1,6 @@
 # MY LEARNING JOURNEY🌱
-this repository documents my journey of learning python and exploring AI tools
+I am first year btech CS student specialization in artificial intelligence & machine learning, starting my journey in programming & technology.
+i am learning step by step, building projects and exploring AI tools to improve my skills
 
 # MY GOALS🎯
 improve my python skills
